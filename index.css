@@ -1,0 +1,75 @@
+*{
+    font-family: sans-serif;
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("image/concrete-wall-exposed-white-concrete-texture-with-cracked-detail_1258-130407.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    
+form{
+    margin-top: 4rem;
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.Dell{
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid rgb(236, 225, 225);
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+}
+i{
+    color: #9633ff;
+}
+input{
+    outline: none;
+    border: none;
+    width: 100%;
+}
+h1{
+    padding-bottom: 2rem
+}
+.tc{
+    color: #9633ff;
+    text-decoration: none;
+}
+.btn{
+    background-color: #9633ff;
+    color: white;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    
+}
+.sn{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ .horizon{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+} 
+.led{
+    /* width: 100%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
